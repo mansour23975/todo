@@ -14,8 +14,11 @@ Tools • Dart 3.5.2 • DevTools 2.37.2
 
 
 ## include:
+
 state management: Bloc
+
 local storage: Hive
+
 Dependency injector: get_it
 
 
